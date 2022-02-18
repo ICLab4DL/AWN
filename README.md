@@ -7,4 +7,4 @@ Performance metrics can be calculated by confusion matrix.ipynb
 Parameter can be adjusted in util.py
 AWN model can be modified in model/FFNN.py
 
-Yuejin Li, Zhengdao Li, Kai Hwang. "".
+Yuejin Li, Zhengdao Li, Kai Hwang. "Attentive Wavelet Neural Network for Time-Sensitive Applications: Illustrated by Arrhythmia Disease Detection".
