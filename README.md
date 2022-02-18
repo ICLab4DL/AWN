@@ -6,3 +6,5 @@ Then execute train.sh to train the model
 Performance metrics can be calculated by confusion matrix.ipynb
 Parameter can be adjusted in util.py
 AWN model can be modified in model/FFNN.py
+
+Yuejin Li, Zhengdao Li, Kai Hwang. "".
